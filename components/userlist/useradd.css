@@ -1,0 +1,13 @@
+.user-add-container {
+	width: 100%;
+	display: flex;
+}
+
+#enteredName {
+	width: 420px;
+	margin-left: 20px;
+}
+
+#addNameBUtton {
+	margin-left: 20px;
+}
